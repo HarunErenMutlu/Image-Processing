@@ -1,0 +1,8 @@
+/home/harun/Desktop/lessons/391/libceng391/CMakeFiles/rebuild_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/CMakeFiles/edit_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/src/CMakeFiles/rebuild_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/src/CMakeFiles/edit_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/src/CMakeFiles/ceng391.dir
+/home/harun/Desktop/lessons/391/libceng391/app/CMakeFiles/rebuild_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/app/CMakeFiles/edit_cache.dir
+/home/harun/Desktop/lessons/391/libceng391/app/CMakeFiles/image-test.dir
